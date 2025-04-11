@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
@@ -20,8 +20,6 @@
 <p align="left">Jag är en passionerad datateknikstudent på KTH med ett driv för att lösa verkliga problem med hjälp av teknik.<br><br>💡 Vad jag gillar att göra:<br><br>- Utveckla projekt som kombinerar programmering, AI/ML och optimering. <br><br>- Bygga smarta lösningar som gör komplex information enkel och användbar<br><br>- Arbeta praktiskt med problem – gärna från idé till implementation<br><br>🛠️ Vad jag jobbar på just nu:<br><br>- En plattform för hantering, optimering och utvärdering av stor volym transportdata för SMF. I projektet ingår b.la. api hantering, databaser, hårdvaruintegration, optimeringsalgoritmer, cybersäkerhet och webbutveckling.<br><br>- Verktyg som förenklar stavningskorrigering och formattering i smutsig transportdata med sekvens-till-sekvens-modeller i PyTorch<br><br>🌱 Vad som driver mig:<br><br>Att kombinera kreativitet med logik, ny teknik med användbarhet – och att alltid lära mig något nytt längs vägen, vare sig det handlar om nya verktyg eller nya tankesätt kring problemlösning.<br><br>📬 Vill du samarbeta, diskutera idéer eller bara säga hej?<br><br>Släng iväg ett meddelande – jag är alltid öppen för spännande projekt och nya kontakter!</p>
 
 ###
-
-<h3 align="center">👩‍💻  Om mig</h3>
 
 ###
 
