@@ -1,61 +1,77 @@
 <h1 align="left">👋 Hej! Jag heter Adam Abdulmohsen</h1>
 
 <p align="left">
-🌍 Available in: <b>[🇸🇪 Svenska](#-svenska) | [🇬🇧 English](#-english)</b>
+🌍 Available in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab">🇬🇧 English</a></b>
 </p>
 
 ---
 
 ## 🇸🇪 Svenska
 
-Jag är en passionerad datateknikstudent på KTH med ett driv för att lösa verkliga problem med hjälp av teknik.
+<div id="swedish-tab">
+  <p>
+    Jag är en passionerad datateknikstudent på KTH med ett driv för att lösa verkliga problem med hjälp av teknik.
+  </p>
 
-💡 <strong>Vad jag gillar att göra:</strong>  
-- Utveckla projekt som kombinerar programmering, AI/ML och optimering  
-- Utveckla effektiva lösningar som gör komplex information enkel och användbar  
-- Arbeta praktiskt med problem – gärna från idé till implementation  
+  <h4>💡 Vad jag gillar att göra:</h4>
+  <ul>
+    <li>Utveckla projekt som kombinerar programmering, AI/ML och optimering</li>
+    <li>Utveckla effektiva lösningar som gör komplex information enkel och användbar</li>
+    <li>Arbeta praktiskt med problem – gärna från idé till implementation</li>
+  </ul>
 
-🛠️ <strong>Vad jag jobbar på just nu:</strong>  
-- En plattform för hantering, optimering och utvärdering av stor volym transportdata för SMF.  
-  Inkluderar API-hantering, databaser, hårdvaruintegration, optimeringsalgoritmer, cybersäkerhet och webbutveckling  
-- Verktyg som förenklar stavningskorrigering och formatering i smutsig transportdata med Sequence-to-Sequence-modeller i PyTorch  
+  <h4>🛠️ Vad jag jobbar på just nu:</h4>
+  <ul>
+    <li>En plattform för hantering, optimering och utvärdering av stor volym transportdata för SMF. Inkluderar API-hantering, databaser, hårdvaruintegration, optimeringsalgoritmer, cybersäkerhet och webbutveckling</li>
+    <li>Verktyg som förenklar stavningskorrigering och formatering i smutsig transportdata med Sequence-to-Sequence-modeller i PyTorch</li>
+  </ul>
 
-🌱 <strong>Vad som driver mig:</strong>  
-Jag älskar att kombinera kreativitet med logik, ny teknik med användbarhet – och att alltid lära mig något nytt, vare sig det handlar om verktyg, perspektiv eller problemlösningsstrategier.  
-Jag har också ett växande intresse för bioteknik och biomedicin, särskilt hur beräkningsmetoder och AI kan användas inom CRISPR, genredigering och biologisk datatolkning. Möjligheten att bidra till innovation i gränslandet mellan teknik och livsvetenskap inspirerar mig stort.
+  <h4>🌱 Vad som driver mig:</h4>
+  <p>
+    Jag älskar att kombinera kreativitet med logik, ny teknik med användbarhet – och att alltid lära mig något nytt, vare sig det handlar om verktyg, perspektiv eller problemlösningsstrategier. Jag har också ett växande intresse för bioteknik och biomedicin, särskilt hur beräkningsmetoder och AI kan användas inom CRISPR, genredigering och biologisk datatolkning. Möjligheten att bidra till innovation i gränslandet mellan teknik och livsvetenskap inspirerar mig stort.
+  </p>
 
-📬 <strong>Vill du samarbeta, diskutera idéer eller bara säga hej?</strong>  
-Släng iväg ett meddelande – jag är alltid öppen för spännande projekt och nya kontakter!
+  <p><strong>📬 Vill du samarbeta, diskutera idéer eller bara säga hej?</strong>  
+  Släng iväg ett meddelande – jag är alltid öppen för spännande projekt och nya kontakter!</p>
+</div>
 
 ---
 
 ## 🇬🇧 English
 
-I’m a passionate computer science student at KTH with a strong drive to solve real-world problems using technology.
+<div id="english-tab">
+  <p>
+    I’m a passionate computer science student at KTH with a strong drive to solve real-world problems using technology.
+  </p>
 
-💡 <strong>What I enjoy doing:</strong>  
-- Developing projects that combine programming, AI/ML, and optimization  
-- Creating efficient solutions that make complex information simple and usable  
-- Working hands-on with problems – ideally from idea to implementation  
+  <h4>💡 What I enjoy doing:</h4>
+  <ul>
+    <li>Developing projects that combine programming, AI/ML, and optimization</li>
+    <li>Creating efficient solutions that make complex information simple and usable</li>
+    <li>Working hands-on with problems – ideally from idea to implementation</li>
+  </ul>
 
-🛠️ <strong>What I'm working on now:</strong>  
-- A platform for managing, optimizing, and evaluating large-scale transport data for SMEs.  
-  Involves API integration, databases, hardware communication, optimization algorithms, cybersecurity, and web development  
-- Tools to simplify spell correction and formatting in messy transport data using Sequence-to-Sequence models in PyTorch  
+  <h4>🛠️ What I'm working on now:</h4>
+  <ul>
+    <li>A platform for managing, optimizing, and evaluating large-scale transport data for SMEs. Involves API integration, databases, hardware communication, optimization algorithms, cybersecurity, and web development</li>
+    <li>Tools to simplify spell correction and formatting in messy transport data using Sequence-to-Sequence models in PyTorch</li>
+  </ul>
 
-🌱 <strong>What drives me:</strong>  
-I love combining creativity with logic, new tech with usability – and constantly learning something new, whether it's a tool, mindset, or approach.  
-I'm also increasingly interested in biotechnology and biomedicine – especially how computational methods and AI can be used in CRISPR, gene editing, and biological data analysis. The potential to contribute to innovation at the intersection of tech and life sciences truly inspires me.
+  <h4>🌱 What drives me:</h4>
+  <p>
+    I love combining creativity with logic, new tech with usability – and constantly learning something new, whether it's a tool, mindset, or approach.  
+    I'm also increasingly interested in biotechnology and biomedicine – especially how computational methods and AI can be used in CRISPR, gene editing, and biological data analysis. The potential to contribute to innovation at the intersection of tech and life sciences truly inspires me.
+  </p>
 
-📬 <strong>Want to collaborate, discuss ideas, or just say hi?</strong>  
-Feel free to reach out – I’m always open to exciting projects and new connections!
+  <p><strong>📬 Want to collaborate, discuss ideas, or just say hi?</strong>  
+  Feel free to reach out – I’m always open to exciting projects and new connections!</p>
+</div>
 
 ---
 
-<h3 align="center">🛠 Språk och verktyg · Languages & Tools</h3>
+<h3 align="center">🛠 Languages & Tools</h3>
 
 <div align="center">
-  <!-- Your icon list remains unchanged -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
