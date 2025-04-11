@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">👋 Hej! Jag heter Adam Abdulmohsen</h1>
+<h1 align="left">👋 Hej! Jag heter Adam Abdulmohsen</h1>
 
 ###
 
