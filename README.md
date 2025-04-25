@@ -17,7 +17,7 @@
   <ul>
     <li>Utveckla projekt som kombinerar programmering, AI/ML och optimering</li>
     <li>Utveckla effektiva lösningar som gör komplex information enkel och användbar</li>
-    <li>Arbeta praktiskt med problem – gärna från idé till implementation</li>
+    <li>Arbeta praktiskt med problem, gärna från idé till implementation</li>
   </ul>
 
   <h4>🛠️ Vad jag jobbar på just nu:</h4>
@@ -28,11 +28,11 @@
 
   <h4>🌱 Vad som driver mig:</h4>
   <p>
-    Jag älskar att kombinera kreativitet med logik, ny teknik med användbarhet – och att alltid lära mig något nytt, vare sig det handlar om verktyg, perspektiv eller problemlösningsstrategier. Jag har också ett växande intresse för bioteknik och biomedicin, särskilt hur beräkningsmetoder och AI kan användas inom CRISPR, genredigering och biologisk datatolkning. Möjligheten att bidra till innovation i gränslandet mellan teknik och livsvetenskap inspirerar mig stort.
+    Jag älskar att kombinera kreativitet med logik, ny teknik med användbarhet, och att alltid lära mig något nytt, vare sig det handlar om verktyg, perspektiv eller problemlösningsstrategier. Jag har också ett växande intresse för bioteknik och biomedicin, särskilt hur beräkningsmetoder och AI kan användas inom CRISPR, genredigering och biologisk datatolkning. Möjligheten att bidra till innovation i gränslandet mellan teknik och livsvetenskap inspirerar mig stort.
   </p>
 
   <p><strong>📬 Vill du samarbeta, diskutera idéer eller bara säga hej?</strong>  
-  Släng iväg ett meddelande – jag är alltid öppen för spännande projekt och nya kontakter!</p>
+  Släng iväg ett meddelande, jag är alltid öppen för spännande projekt och nya kontakter!</p>
 </div>
 
 <h3 align="center">🛠 Språk & Verktyg</h3>
@@ -106,12 +106,12 @@
 
   <h4>🌱 What drives me:</h4>
   <p>
-    I love combining creativity with logic, new tech with usability – and constantly learning something new, whether it's a tool, mindset, or approach.  
-    I'm also increasingly interested in biotechnology and biomedicine – especially how computational methods and AI can be used in CRISPR, gene editing, and biological data analysis. The potential to contribute to innovation at the intersection of tech and life sciences truly inspires me.
+    I love combining creativity with logic, new tech with usability, and constantly learning something new, whether it's a tool, mindset, or approach.  
+    I'm also increasingly interested in biotechnology and biomedicine, especially how computational methods and AI can be used in CRISPR, gene editing, and biological data analysis. The potential to contribute to innovation at the intersection of tech and life sciences truly inspires me.
   </p>
 
   <p><strong>📬 Want to collaborate, discuss ideas, or just say hi?</strong>  
-  Feel free to reach out – I’m always open to exciting projects and new connections!</p>
+  Feel free to reach out, I’m always open to exciting projects and new connections!</p>
 </div>
 
 ---
