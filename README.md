@@ -28,7 +28,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
 
   <h4> Vad som driver mig:</h4>
   <p>
-    Jag älskar att kombinera kreativitet med logik, ny teknik med användbarhet, och att alltid lära mig något nytt, vare sig det handlar om verktyg, perspektiv eller problemlösningsstrategier. Jag har också ett växande intresse för bioteknik och biomedicin, särskilt hur beräkningsmetoder och AI kan användas inom CRISPR, genredigering och biologisk datatolkning. Möjligheten att bidra till innovation i gränslandet mellan teknik och livsvetenskap inspirerar mig stort.
+    Jag gillar att kombinera kreativitet med logik, ny teknik med användbarhet, och att alltid lära mig något nytt, vare sig det handlar om verktyg, perspektiv eller problemlösningsstrategier. Jag har också ett växande intresse för bioteknik och biomedicin, särskilt hur beräkningsmetoder och AI kan användas inom CRISPR, genredigering och biologisk datatolkning. Möjligheten att bidra till innovation i gränslandet mellan teknik och livsvetenskap inspirerar mig stort.
   </p>
 
   <p><strong> Vill du samarbeta, diskutera idéer eller bara säga hej?</strong>  
