@@ -10,7 +10,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
 
 <div id="swedish-tab">
   <p>
-    Jag är en passionerad datateknikstudent på KTH med ett driv för att lösa verkliga problem med hjälp av teknik.
+    Jag är en datateknikstudent på KTH med ett driv för att lösa verkliga problem med hjälp av teknik.
   </p>
 
   <h4> Vad jag gillar att göra:</h4>
