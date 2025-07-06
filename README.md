@@ -59,7 +59,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height: 40px; max-width: 50px;" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height: 40px; max-width: 50px;" alt="pytorch logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="height: 40px; max-width: 70px;" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 40px; max-width: 50px;" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/css.svg" style="height: 40px; max-width: 50px;" alt="tailwindcss logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; max-width: 50px;" alt="html5 logo" />
 </div>
 
