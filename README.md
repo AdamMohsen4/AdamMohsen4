@@ -42,7 +42,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height: 40px; max-width: 50px;" alt="go logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" style="height: 40px; max-width: 50px;" alt="dot-net logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line.svg" style="height: 40px; max-width: 50px;" alt="aws logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="height: 40px; max-width: 70px;" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px; max-width: 50px;" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px; max-width: 50px;" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; max-width: 50px;" alt="python logo" />
@@ -58,8 +58,8 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 40px; max-width: 50px;" alt="sqlite logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height: 40px; max-width: 50px;" alt="tensorflow logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height: 40px; max-width: 50px;" alt="pytorch logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="height: 40px; max-width: 70px;" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/css.svg" style="height: 40px; max-width: 50px;" alt="tailwindcss logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 40px; max-width: 50px;" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css.svg" style="height: 40px; max-width: 50px;" alt="css logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px; max-width: 50px;" alt="html5 logo" />
 </div>
 
