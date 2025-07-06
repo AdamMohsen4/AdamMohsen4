@@ -35,7 +35,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
   Släng iväg ett meddelande, jag är alltid öppen för spännande projekt och nya kontakter!</p>
 </div>
 
-<h3 align="center">🛠 Språk & Verktyg</h3>
+<h3 align="center">Språk & Verktyg</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -116,7 +116,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
 
 ---
 
-<h3 align="center">🛠 Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
