@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hej! Jag heter Adam Abdulmohsen</h1>
+<h1 align="left">👋 Hej! Jag heter Adam Mohsen</h1>
 
 <p align="left">
 Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab">🇬🇧 English</a></b>
@@ -66,7 +66,7 @@ Read in: <b><a href="#swedish-tab">🇸🇪 Svenska</a> | <a href="#english-tab"
 ---
 
 ## 🇬🇧 English
-<h1 align="left"> Hi! My name is Adam Abdulmohsen</h1>
+<h1 align="left"> Hi! My name is Adam Mohsen</h1>
 
 <div id="english-tab">
   <p>
