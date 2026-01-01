@@ -10,7 +10,7 @@ I enjoy working hands-on and following ideas all the way from early experiments 
 </p>
 
 <p>
-At the moment, I’m working on tools for transport data — both systems for managing and optimizing it,
+At the moment, I’m working on tools for transport data, both systems for managing and optimizing it,
 and models for cleaning and correcting messy inputs.
 </p>
 
